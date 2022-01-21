@@ -1,0 +1,5 @@
+build
+debug
+release
+*.o
+compile_commands.json

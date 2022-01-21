@@ -1,2 +1,2 @@
 # image_blend
-Blend HDR images
+Simple linear blend of multiple HDR images
